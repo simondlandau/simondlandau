@@ -1,0 +1,1606 @@
+.input-group
+  #adate {
+    background-color:#D9E3DA;
+    color:black;
+    border: black;
+    outline:1;
+    width:120px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#adate:focus {
+    background-color:lightgrey;
+    width:120px;
+    height:20px;
+    font-size:12px;
+}
+  #DOB {
+    background-color:#D9E3DA;
+    color:black;
+    border: black;
+    outline:1;
+    width:120px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#DOB:focus {
+    background-color:lightgrey;
+    width:120px;
+    height:20px;
+    font-size:12px;
+}
+ #Employed_Desc {
+    background-color:black;
+    color:white;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Employed_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:70px;
+    font-size:12px;
+}
+ #Other_Addictions {
+    background-color:black;
+    color:white;
+    border: black;
+    outline:1;
+    width:250px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Other_Addictions:focus {
+    background-color:lightblue;
+    color: black;
+    width:250px;
+    height:70px;
+    font-size:12px;
+}
+ #Current_Medical_Cond {
+    background-color:black;
+    color:white;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Current_Medical_Cond:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+ #History_Eyes_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Eyes_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+
+ #History_Ears_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Ears_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+
+ #History_Nose_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Nose_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Heart_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Heart_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Blood_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Blood_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Resp_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Resp_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Digestive_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Digestive_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Kidney_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Kidney_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Neuro_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Neuro_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Endo_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Endo_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Skin_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Skin_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Muscle_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Muscle_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Mental_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Mental_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Phobia_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Phobia_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Tropical_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Tropical_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Growths_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Growths_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Sleep_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Sleep_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Allergy_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Allergy_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Medication_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Medication_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Pregnant_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Pregnant_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Exercise_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Exercise_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+#History_Surgery_Desc {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:350px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#History_Surgery_Desc:focus {
+    background-color:lightblue;
+    color: black;
+    width:350px;
+    height:40px;
+    font-size:12px;
+}
+
+#Family_Heart_Desc {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:600px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Family_Heart_Desc:focus {
+    background-color:black;
+    color: white;
+    width:600px;
+    height:40px;
+    font-size:12px;
+}
+#Family_Seizure_Desc {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:600px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Family_Seizure_Desc:focus {
+    background-color:black;
+    color: white;
+    width:600px;
+    height:40px;
+    font-size:12px;
+}
+#Family_Eye_Desc {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:600px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Family_Eye_Desc:focus {
+    background-color:black;
+    color: white;
+    width:600px;
+    height:40px;
+    font-size:12px;
+}
+#Family_Diabetes_Desc {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:600px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Family_Diabetes_Desc:focus {
+    background-color:black;
+    color: white;
+    width:600px;
+    height:40px;
+    font-size:12px;
+}
+#Family_Cancer_Desc {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:600px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Family_Cancer_Desc:focus {
+    background-color:black;
+    color: white;
+    width:600px;
+    height:40px;
+    font-size:12px;
+}
+#Family_Asthma_Desc {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:600px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Family_Asthma_Desc:focus {
+    background-color:black;
+    color: white;
+    width:600px;
+    height:40px;
+    font-size:12px;
+}
+#Family_Hereditary_Desc {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:600px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Family_Hereditary_Desc:focus {
+    background-color:black;
+    color: white;
+    width:600px;
+    height:40px;
+    font-size:12px;
+}
+#Family_Psychiatric_Desc {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:600px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Family_Psychiatric_Desc:focus {
+    background-color:black;
+    color: white;
+    width:600px;
+    height:40px;
+    font-size:12px;
+}
+#Family_Addiction_Desc {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:600px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Family_Addiction_Desc:focus {
+    background-color:black;
+    color: white;
+    width:600px;
+    height:40px;
+    font-size:12px;
+}
+
+#Med_Aid_No {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:90px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Med_Aid_No:focus {
+    background-color:black;
+    color: white;
+    width:90px;
+    height:20px;
+    font-size:12px;
+}
+
+#MedAidDesc {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:135px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#MedAidDesc:focus {
+    background-color:black;
+    color: white;
+    width:135px;
+    height:20px;
+    font-size:12px;
+}
+
+#Med_Aid_Main {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:90px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Med_Aid_Main:focus {
+    background-color:black;
+    color: white;
+    width:90px;
+    height:20px;
+    font-size:12px;
+}
+
+#Med_Aid_Dependent {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:25px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Med_Aid_Dependent:focus {
+    background-color:black;
+    color: white;
+    width:25px;
+    height:20px;
+    font-size:12px;
+}
+
+#Substance_Alcohol {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Substance_Alcohol:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Substance_Cigarettes {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Substance_Cigarettes:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Substance_72_Hours {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Substance_72_Hours:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Substance_Lifetime {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Substance_Lifetime:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Substance_Duration {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Substance_Duration:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Substance_Previous {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Substance_Previous:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Substance_Sleeping {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Substance_Sleeping:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Psych_Diagnoses {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Psych_Diagnoses:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Psych_Treated {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Psych_Treated:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Psych_Prescribed {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Psych_Prescribed:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Psych_Suffered {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Psych_Suffered:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Infect_HIV_Tested {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Infect_HIV_Tested:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Infect_High_Risk {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Infect_High_Risk:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Infect_TB_Previous {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Infect_TB_Previous:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Infect_TB_Exposed {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Infect_TB_Exposed:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Infect_Hep_Previous {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Infect_Hep_Previous:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Infect_STD_Previous {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Infect_STD_Previous:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Mood_Feel {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Mood_Feel:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Mood_Anxiety {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Mood_Anxiety:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Mood_Suicidal {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Mood_Suicidal:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Mood_Suicidal_Attempt {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Mood_Suicidal_Attempt:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Mood_Cutting {
+    background-color:transparent;
+    color:black;
+    border: black;
+    outline:1;
+    width:800px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Mood_Cutting:focus {
+    background-color:lightblue;
+    color: black;
+    width:800px;
+    height:20px;
+    font-size:12px;
+}
+#Physical_Height {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:55px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Physical_Height:focus {
+    background-color:black;
+    color: white;
+    width:55px;
+    height:20px;
+    font-size:12px;
+}
+#Physical_Weight {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:55px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Physical_Weight:focus {
+    background-color:black;
+    color: white;
+    width:55px;
+    height:20px;
+    font-size:12px;
+}
+#Physical_BMI {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:55px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Physical_BMI:focus {
+    background-color:black;
+    color: white;
+    width:55px;
+    height:20px;
+    font-size:12px;
+}
+#Physical_BP {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:55px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Physical_BP:focus {
+    background-color:black;
+    color: white;
+    width:55px;
+    height:20px;
+    font-size:12px;
+}
+#Physical_P_bpm {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:55px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Physical_P_bpm:focus {
+    background-color:black;
+    color: white;
+    width:55px;
+    height:20px;
+    font-size:12px;
+}
+#Physical_Resp {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:55px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Physical_Resp:focus {
+    background-color:black;
+    color: white;
+    width:55px;
+    height:20px;
+    font-size:12px;
+}
+#Physical_HGT {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:55px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Physical_HGT:focus {
+    background-color:black;
+    color: white;
+    width:55px;
+    height:20px;
+    font-size:12px;
+}
+#Physical_Temp {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:55px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Physical_Temp:focus {
+    background-color:black;
+    color: white;
+    width:55px;
+    height:20px;
+    font-size:12px;
+}
+#Urine_Leuco {
+    background-color:lightblue;
+    color:white;
+    border: black;
+    outline:1;
+    width:55px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Urine_Leuco:focus {
+    background-color:lightblue;
+    color: blue;
+    width:55px;
+    height:20px;
+    font-size:12px;
+}
+#Urine_Nitrate {
+    background-color:lightblue;
+    color:white;
+    border: black;
+    outline:1;
+    width:55px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Urine_Nitrate:focus {
+    background-color:lightblue;
+    color: blue;
+    width:55px;
+    height:20px;
+    font-size:12px;
+}
+#Urine_Uro {
+    background-color:lightblue;
+    color:white;
+    border: black;
+    outline:1;
+    width:55px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Urine_Uro:focus {
+    background-color:lightblue;
+    color: blue;
+    width:55px;
+    height:20px;
+    font-size:12px;
+}
+#Urine_Prot {
+    background-color:lightblue;
+    color:white;
+    border: black;
+    outline:1;
+    width:55px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Physical_Prot:focus {
+    background-color:lightblue;
+    color: blue;
+    width:55px;
+    height:20px;
+    font-size:12px;
+}
+#Urine_Gluc {
+    background-color:lightblue;
+    color:white;
+    border: black;
+    outline:1;
+    width:55px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Urine_Gluc:focus {
+    background-color:lightblue;
+    color: blue;
+    width:55px;
+    height:20px;
+    font-size:12px;
+}
+#Urine_Bili {
+    background-color:lightblue;
+    color:white;
+    border: black;
+    outline:1;
+    width:55px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Urine_Bili:focus {
+    background-color:lightblue;
+    color: blue;
+    width:55px;
+    height:20px;
+    font-size:12px;
+}
+#Urine_Ket {
+    background-color:lightblue;
+    color:white;
+    border: black;
+    outline:1;
+    width:55px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Urine_Ket:focus {
+    background-color:lightblue;
+    color: blue;
+    width:55px;
+    height:20px;
+    font-size:12px;
+}
+#Urine_Blood {
+    background-color:lightblue;
+    color:white;
+    border: black;
+    outline:1;
+    width:55px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Urine_Blood:focus {
+    background-color:lightblue;
+    color: blue;
+    width:55px;
+    height:20px;
+    font-size:12px;
+}
+#In_Date {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:120px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#In_Date:focus {
+    background-color:black;
+    color: white;
+    width:120px;
+    height:40px;
+    font-size:12px;
+}
+#Med_Name {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:200px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Med_Name:focus {
+    background-color:black;
+    color: white;
+    width:200px;
+    height:40px;
+    font-size:12px;
+}
+#Med_Desc {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:450px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Med_Desc:focus {
+    background-color:black;
+    color: white;
+    width:450px;
+    height:40px;
+    font-size:12px;
+}
+#Med_Qty {
+    background-color:lightblue;
+    color:black;
+    border: black;
+    outline:1;
+    width:95px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Med_Qty:focus {
+    background-color:black;
+    color: white;
+    width:95px;
+    height:40px;
+    font-size:12px;
+}
+#Notes {
+    background-color:lightblue;
+    color:white;
+    border: black;
+    outline:1;
+    width:450px;
+    height:20px;
+    font-size:12px;
+    transition:height .5s;
+    -webkit-transition:height .5s;
+}
+#Notes:focus {
+    background-color:lightblue;
+    color: blue;
+    width:750px;
+    height:80px;
+    font-size:12px;
+}
+
+.input-group input
+{ background-color: transparent;}
+
+.buttonstep {
+  background-color: lightblue;
+  border: none;
+  color: grey;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+
+.buttonstep:hover {
+  background-color: blue;
+ color: white;
+}
+
+.buttonmenu {
+  background-color: #C1F0D8;
+  border: none;
+  color: #0A522D;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+
+.buttonmenu:hover {
+  background-color: #0A522D;
+ color: #C1F0D8;
+}
+
+.btn {
+  background-color: lightgrey;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+
+.btn:hover {
+  background-color: black;
+ color: lightgrey;
+}
+.delbtn {
+  background-color: orange;
+  border: none;
+  color: white;
+  padding: 1px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+
+.delbtn:hover {
+  background-color: red;
+ color: grey;
+}
+.editbtn {
+  background-color: lightgreen;
+  border: none;
+  color: grey;
+  padding: 1px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+
+.editbtn:hover {
+  background-color: green;
+ color: white;
+}
+.ctext {
+	padding: 400px;
+	color: blue;
+}
+.ptext {
+	padding: 50px;
+	color: black;
+}
+

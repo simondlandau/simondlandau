@@ -1,0 +1,33 @@
+.content {
+	background-color: transparent;
+	width: 95%;
+	margin: 0 auto;
+	padding: 20px 10px;
+	overflow: hidden;
+	border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.photo {
+	border-radius: 40px;
+	border: 1px solid #ccc;
+	width: 100px;
+	height: 100px;
+	margin-top: 10px;
+	margin-left: 10px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+}
+
+.photo-name {
+	/*margin-top: 245px;*/
+	/*padding: 0.5em;*/
+  position: absolute;
+  width: 100%;
+  bottom: 1px;
+	text-align: center;
+	color: white;
+	background-color: black;
+	/*background-color: #666666;*/
+}
