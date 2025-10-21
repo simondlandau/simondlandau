@@ -1,11 +1,50 @@
-- 👋 Currently I am assisting a local charity shop of an international charity organisation with some management tools. This is exciting and rewarding work using LAMP, XAMPP, PHP, MySQL, MSSQL, PWA Docker to name a few of the tools. I have implemented a reconciliation and end of day application to monitor the daily existing POS system, added management reports and automated email notification. I have most recently added a PWA Inventory scanning system to monitor stocks, Incorporating offline and batch funtions, it is used by floor staff at time of stock-up using smartphones which update the XAMPP MySQL database. 
--   I remain excited and motivated by the need for a treatment database for use by the behavioural and addiction therapeutic community.
-- I have been involved in IT development and support for the past 30 years, and was fortunate to be able to use this experience volunteering at the South Coast Recovery Centre in KZN, South Africa from 2015 to 2020, where I designed and implemented an open source online application to capture and process patient treatment data. 
-- I have used this experience to assist the Jahara Treatment Centre in Limpopo, South Africa from 2020 to present, in not only implementing their own open source on line Patient administration database, but converting their administration procedures to a paperless system. 
-- 👀 I’m interested in Anything Open Source
-- 🌱 I’m currently learning AWS, K8s
-- 📫 email: simon@landau.ws
+# 👋 Hi, I'm Simon
 
+## What I'm Working On
+
+I'm currently assisting a local charity shop of an international organization with management tools and systems. This rewarding work involves:
+
+- **Daily Operations Management**: End-of-day reconciliation application monitoring the existing POS system
+- **Business Intelligence**: Management reports with automated email notifications
+- **Inventory Management**: Recently deployed a Progressive Web App (PWA) for inventory scanning
+  - Used by floor staff on smartphones during stock-up operations
+  - Features offline capability and batch scanning modes
+  - Real-time synchronization with XAMPP MySQL database
+  - Barcode scanning with QuaggaJS for Code 39, EAN, UPC formats
+  - Service Worker implementation for offline-first functionality
+
+**Tech Stack**: LAMP, XAMPP, PHP, MySQL, MSSQL, PWA, Docker, Service Workers
+
+## Background & Experience
+
+I have 30+ years of experience in IT development and support, with a focus on open-source solutions for the healthcare and nonprofit sectors.
+
+### Treatment Database Projects
+
+**South Coast Recovery Centre** | KZN, South Africa | 2015-2020
+- Designed and implemented an open-source online application for patient treatment data
+- Captured and processed behavioral and addiction therapy records
+- Volunteered full-time as IT development support
+
+**Jahara Treatment Centre** | Limpopo, South Africa | 2020-2022
+- Implemented open-source patient administration database
+- Led digital transformation: converted all administration to paperless systems
+- Ongoing system maintenance and feature development
+
+## Interests & Learning
+
+- 👀 Passionate about **Open Source** solutions
+- 🌱 Currently learning **AWS** and **Kubernetes (K8s)**
+- 💡 Excited about serverless architectures and container orchestration
+- 🎯 Motivated by projects that make a real difference in healthcare and nonprofit sectors
+
+## Get In Touch
+
+📫 **Email**: simon@landau.ws
+
+---
+
+*I'm always interested in connecting with others working on open-source healthcare solutions or nonprofit technology projects.*
 <!---
 simondlandau/simondlandau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
