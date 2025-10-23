@@ -1,8 +1,8 @@
 <?php
 
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'itmedia');
-define('DB_PASSWORD', 'send@AWS');
+define('DB_USERNAME', '');
+define('DB_PASSWORD', '@AWS');
 define('DB_NAME', 'Halo');
 define('DB_PORT', '3306');
  
