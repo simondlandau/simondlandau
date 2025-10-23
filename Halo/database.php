@@ -3,8 +3,8 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 $servername = "localhost";
-$username = "itmedia";
-$password = "send@AWS";
+$username = "";
+$password = "";
 $dbname = "Halo";
 
 	$dbConn = new mysqli($servername, $username, $password, $dbname, 3306) or die('MySQL connect failed. ' . mysqli_connect_error());
